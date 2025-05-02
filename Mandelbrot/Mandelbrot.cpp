@@ -6,6 +6,8 @@
 using namespace std;
 using namespace sf;
 // hdkdkdkg
+// sfugaufgadf
+//
 /*
 void testConvergence(complex<double> c)
 {
